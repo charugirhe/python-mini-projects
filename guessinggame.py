@@ -23,6 +23,6 @@ while(attampts>0):
     else:
         print("invalid input")
     attampts=attampts-1   
-    print(f"Attempts remaining: {attempts}")
+    print(f"Attempts remaining: {attampts}")
 
 print("The number was:",rand_no)    
